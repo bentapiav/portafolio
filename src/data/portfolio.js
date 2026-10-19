@@ -3,7 +3,7 @@
   title: 'Estudiante de Analista Programador',
   description:
     'Estudiante de Analista Programador apasionado por la tecnología y el desarrollo web. Me interesa trabajar tanto en desarrollo como en diseño y proyectos creativos.',
-  avatar: 'https://api.dicebear.com/9.x/initials/svg?seed=Benjamin%20Tapia',
+  avatar: '/fotomia.png',
 }
 
 export const experiences = [
