@@ -11,7 +11,7 @@ Aplicación web de tipo *Single Page Application* con mi portafolio personal: qu
 
 ## Requisitos
 
-- Node.js 18 o superior (https://nodejs.org)
+- Node.js 20.19 o superior (https://nodejs.org)
 - npm (se instala junto con Node.js)
 
 ## Instalación y ejecución local
