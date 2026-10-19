@@ -1,4 +1,5 @@
-﻿import { validate } from './useContactForm'
+﻿import { describe, it, expect } from 'vitest'
+import { validate } from './useContactForm'
 
 describe('validate', () => {
   it('devuelve errores para todos los campos vacíos', () => {
@@ -17,3 +18,4 @@ describe('validate', () => {
     expect(errors).toEqual({})
   })
 })
+

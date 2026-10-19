@@ -1,4 +1,5 @@
-﻿import { render, screen } from '@testing-library/react'
+﻿import { describe, it, expect } from 'vitest'
+import { render, screen } from '@testing-library/react'
 import HeroSection from './HeroSection'
 import ExperienceSection from './ExperienceSection'
 import EducationSection from './EducationSection'
@@ -84,3 +85,4 @@ describe('Footer', () => {
     expect(screen.getByText(/ana@correo.com/)).toBeInTheDocument()
   })
 })
+
