@@ -9,24 +9,24 @@
 export const experiences = [
   {
     id: 1,
-    company: 'Por completar',
-    role: 'Digitalizador',
-    startDate: 'Por completar',
-    endDate: 'Por completar',
+    company: 'Trabajo independiente',
+    role: 'Encargado de monitoreo de eventos',
+    startDate: '19 de septiembre de 2026',
+    endDate: '2 de octubre de 2026',
   },
   {
     id: 2,
-    company: 'Por completar',
-    role: 'Encargado de monitoreo de eventos',
-    startDate: 'Por completar',
-    endDate: 'Por completar',
+    company: 'Trabajo independiente',
+    role: 'Digitalizador',
+    startDate: '12 de septiembre de 2023',
+    endDate: '12 de octubre de 2024',
   },
 ]
 
 export const education = [
   {
     id: 1,
-    institution: 'Por completar',
+    institution: 'DUOC UC sede Maipú',
     title: 'Analista Programador',
     year: 'En curso',
   },
@@ -39,9 +39,12 @@ export const education = [
 ]
 
 export const projects = [
-  { id: 1, title: 'Portafolio Personal', image: '', repoUrl: 'https://github.com/bentapiav' },
-  { id: 2, title: 'Proyecto 2 (por completar)', image: '', repoUrl: 'https://github.com/bentapiav' },
-  { id: 3, title: 'Proyecto 3 (por completar)', image: '', repoUrl: 'https://github.com/bentapiav' },
+  {
+    id: 1,
+    title: 'Portafolio Personal',
+    image: '',
+    repoUrl: 'https://github.com/bentapiav/portafolio',
+  },
 ]
 
 export const socialLinks = [
